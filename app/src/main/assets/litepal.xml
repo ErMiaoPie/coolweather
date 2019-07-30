@@ -8,7 +8,7 @@
     <list>
         <mapping class="com.example.wt.coolweather.db.Province" />
         <mapping class="com.example.wt.coolweather.db.City" />
-        <mapping class="com.example.wt.coolweather.db.Country" />
+        <mapping class="com.example.wt.coolweather.db.County" />
     </list>
 
 </litepal>

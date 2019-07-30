@@ -2,7 +2,7 @@ package com.example.wt.coolweather.db;
 
 import org.litepal.crud.LitePalSupport;
 
-public class Country extends LitePalSupport {
+public class County extends LitePalSupport {
     private int id;
     private String countryName;
     private String weatherId;
